@@ -19,10 +19,10 @@ The demand for efficient and collaborative UI/UX design tools has surged with th
 - **Node.js**
 - **NPM**
 ## Network Requirements : 
-- **NEXT.JS**
-- **TYPESCRIPT**
-- **LIVEBLOCKS**
-- **NODE.JS**
-- **FABRIC.JS**
-- **TAILWIND CSS**
-- **SHADCN UI**
+- **Next.js**
+- **Typescript**
+- **Liveblocks**
+- **Node.js**
+- **Fabric.js**
+- **Tailwind CSS**
+- **Shadcn UI**
