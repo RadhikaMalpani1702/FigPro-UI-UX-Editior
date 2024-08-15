@@ -14,11 +14,11 @@ The demand for efficient and collaborative UI/UX design tools has surged with th
 - **RAM**: 8 GB or Higher
 - **Processor**: intel i3/i5/ryzen 3/5 processor or higher
 - **Storage**: Any SSD/HDD  
-## Software Requirements : 
+## Software Requirements: 
 - **Visual Studio Code**
 - **Node.js**
 - **NPM**
-## Network Requirements : 
+## Network Requirements: 
 - **Next.js**
 - **Typescript**
 - **Liveblocks**
